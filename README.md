@@ -9,7 +9,7 @@ The project have been uploaded to azure, you can access through the link: http:/
 	
 The search bar: <br>
 Type in location and click 'go' to search, the location is stripped from the database.<br>
-you can type locations like { "Pacifica"   "Artesia"   "Pacoima"   "Corralitos" "Rose Garden"  "Capitola CA" "Madrone"  "RIO VISTA"  "Castroville" "Other Area" "Coastal"  "Palmdale"  "irvington"   "Barron Park"  "Shearwater"  "Chowchilla"  "Salinas"  "location" : "Los Prados" "location" : "modesto"  "location" : "Montara" }
+you can type locations like { "Pacifica"   "Artesia"   "Pacoima"   "Corralitos" "Rose Garden"  "Capitola CA" "Madrone"  "RIO VISTA"  "Castroville" "Other Area" "Coastal"  "Palmdale"  "irvington"   "Barron Park"  "Shearwater"  "Chowchilla"  "Salinas"   "Los Prados" "modesto"  "Montara" }
 
 
 
