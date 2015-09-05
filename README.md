@@ -1,4 +1,7 @@
 # Onerent Project
+
+The project have been uploaded to azure, you can access through the link: http://thirdtry.cloudapp.net:3100
+
  How to use: <br> 
 	Click the title to see the detail of every entry. <br/>
 	since I don't have picture of each house, I just use the same picture. <br/> 
