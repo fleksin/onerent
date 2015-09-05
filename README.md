@@ -1,6 +1,6 @@
 # Onerent Project
 
-The project have been uploaded to azure, you can access through the link: http://thirdtry.cloudapp.net:3100
+The project have been uploaded to azure, you can access through the link: http://thirdtry.cloudapp.net:3000/OneRent.html
 
  How to use: <br> 
 	Click the title to see the detail of every entry. <br/>
